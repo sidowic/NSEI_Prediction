@@ -1,2 +1,2 @@
 # NSEI_Prediction
-Predictive Model for Stock Price Prediction
+A Robust Predictive Model for Stock PricePrediction Using Deep Learning and Natural Language Processing
